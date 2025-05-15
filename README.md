@@ -22,5 +22,5 @@ A simple web application that lets users submit a form (name, email, message) an
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/MySQLFormApp.git
+git clone https://github.com/ElegantArmour5/MySQLFormApp.git
 cd MySQLFormApp
